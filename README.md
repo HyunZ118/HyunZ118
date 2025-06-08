@@ -1,9 +1,9 @@
-👩🏻‍💻 Work Experiencs
+## 👩🏻‍💻 Work Experiencs
 - Currently working in a medical AI research lab  
 - Experience working in a research lab focused on medical big data  
 - Experience working at a digital healthcare startup (DTx service development team) 
 
-💭 Current Interests
+## 💭 Current Interests
 - Medical AI
 - Computer Vision
 - Healthcare
