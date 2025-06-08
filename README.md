@@ -1,4 +1,4 @@
-## 👩🏻‍💻 Work Experiencs
+## 👩🏻‍💻 Work Experiences
 - Currently working in a medical AI research lab  
 - Experience working in a research lab focused on medical big data  
 - Experience working at a digital healthcare startup (DTx service development team) 
